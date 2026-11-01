@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+backup_*/
+*.db
+*.parquet
+*.xlsx
+*.xls
+*.zip
+postgresql-*-windows-x64.exe
+evaluation_results.csv
+evaluation_results_postgres.csv
+evaluation_results_*.csv
+.streamlit/secrets.toml
+.env
+
